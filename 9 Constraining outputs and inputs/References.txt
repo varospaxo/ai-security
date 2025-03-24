@@ -1,0 +1,2 @@
+https://learnprompting.org/docs/prompt_hacking/defensive_measures/introduction
+https://openai.com/index/introducing-structured-outputs-in-the-api/
